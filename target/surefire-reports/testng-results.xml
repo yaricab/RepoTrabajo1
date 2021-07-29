@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite pruebas de regresión" duration-ms="21794" started-at="2021-07-05T15:59:13Z" finished-at="2021-07-05T15:59:35Z">
+    <groups>
+    </groups>
+    <test name="Tests curso automatización" duration-ms="21794" started-at="2021-07-05T15:59:13Z" finished-at="2021-07-05T15:59:35Z">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="inicioSuiteDePruebas()[pri:0, instance:tests.Tests@5056dfcb]" name="inicioSuiteDePruebas" is-config="true" duration-ms="13" started-at="2021-07-05T15:59:13Z" finished-at="2021-07-05T15:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicioSuiteDePruebas -->
+        <test-method status="PASS" signature="preparacionClase()[pri:0, instance:tests.Tests@5056dfcb]" name="preparacionClase" is-config="true" duration-ms="3153" started-at="2021-07-05T15:59:13Z" finished-at="2021-07-05T15:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionClase -->
+        <test-method status="PASS" signature="preparacionTests()[pri:0, instance:tests.Tests@5056dfcb]" name="preparacionTests" is-config="true" duration-ms="4222" started-at="2021-07-05T15:59:16Z" finished-at="2021-07-05T15:59:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method status="PASS" signature="CP001_retomaFormularioContratacion()[pri:0, instance:tests.Tests@5056dfcb]" name="CP001_retomaFormularioContratacion" duration-ms="10511" started-at="2021-07-05T15:59:21Z" finished-at="2021-07-05T15:59:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_retomaFormularioContratacion -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.Tests@5056dfcb]" name="after" is-config="true" duration-ms="0" started-at="2021-07-05T15:59:31Z" finished-at="2021-07-05T15:59:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="preparacionTests()[pri:0, instance:tests.Tests@5056dfcb]" name="preparacionTests" is-config="true" duration-ms="1295" started-at="2021-07-05T15:59:31Z" finished-at="2021-07-05T15:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method status="PASS" signature="CP002()[pri:0, instance:tests.Tests@5056dfcb]" name="CP002" duration-ms="0" started-at="2021-07-05T15:59:32Z" finished-at="2021-07-05T15:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP002 -->
+        <test-method status="PASS" signature="preparacionTests()[pri:0, instance:tests.Tests@5056dfcb]" name="preparacionTests" is-config="true" duration-ms="999" started-at="2021-07-05T15:59:32Z" finished-at="2021-07-05T15:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.Tests@5056dfcb]" name="after" is-config="true" duration-ms="0" started-at="2021-07-05T15:59:32Z" finished-at="2021-07-05T15:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="preparacionTests()[pri:0, instance:tests.Tests@5056dfcb]" name="preparacionTests" is-config="true" duration-ms="803" started-at="2021-07-05T15:59:33Z" finished-at="2021-07-05T15:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method status="PASS" signature="CP003()[pri:0, instance:tests.Tests@5056dfcb]" name="CP003" duration-ms="0" started-at="2021-07-05T15:59:33Z" finished-at="2021-07-05T15:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP003 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.Tests@5056dfcb]" name="after" is-config="true" duration-ms="0" started-at="2021-07-05T15:59:33Z" finished-at="2021-07-05T15:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="CP004()[pri:0, instance:tests.Tests@5056dfcb]" name="CP004" duration-ms="0" started-at="2021-07-05T15:59:34Z" finished-at="2021-07-05T15:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP004 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.Tests@5056dfcb]" name="after" is-config="true" duration-ms="1" started-at="2021-07-05T15:59:34Z" finished-at="2021-07-05T15:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="preparacionTests()[pri:0, instance:tests.Tests@5056dfcb]" name="preparacionTests" is-config="true" duration-ms="794" started-at="2021-07-05T15:59:34Z" finished-at="2021-07-05T15:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method status="PASS" signature="CP005()[pri:0, instance:tests.Tests@5056dfcb]" name="CP005" duration-ms="0" started-at="2021-07-05T15:59:35Z" finished-at="2021-07-05T15:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP005 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.Tests@5056dfcb]" name="after" is-config="true" duration-ms="0" started-at="2021-07-05T15:59:35Z" finished-at="2021-07-05T15:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Tests curso automatización -->
+  </suite> <!-- Suite pruebas de regresión -->
+</testng-results>

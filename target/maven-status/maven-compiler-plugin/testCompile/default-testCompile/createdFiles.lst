@@ -1,0 +1,7 @@
+pages\FormularioContratacionPage.class
+tests\Tests.class
+utilidades\ClaseBase.class
+pages\HomePage.class
+utilidades\DataDriven.class
+utilidades\PropertiesDriven.class
+pages\RetomarContratacionPage.class

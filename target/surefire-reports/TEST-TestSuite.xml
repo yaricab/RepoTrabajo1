@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="22.638" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\domingo.saavedra\Desktop\PageObjectModel_Repaso\src\test\resources\drivers\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\domingo.saavedra\Desktop\PageObjectModel_Repaso\target\test-classes;C:\Users\domingo.saavedra\Desktop\PageObjectModel_Repaso\target\classes;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\domingo.saavedra\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\domingo.saavedra\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\domingo.saavedra\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\domingo.saavedra\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\domingo.saavedra\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\domingo.saavedra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\domingo.saavedra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\domingo.saavedra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\domingo.saavedra\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\domingo.saavedra\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\poi\poi\4.0.0\poi-4.0.0.jar;C:\Users\domingo.saavedra\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\poi\poi-ooxml\4.0.0\poi-ooxml-4.0.0.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.0.0\poi-ooxml-schemas-4.0.0.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\xmlbeans\xmlbeans\3.0.1\xmlbeans-3.0.1.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\domingo.saavedra\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Santiago"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CL"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Progra~1\Java\jdk1.8.0_171\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\domingo.saavedra\AppData\Local\Temp\surefire3928271707914688660\surefirebooter3173117953639207257.jar C:\Users\domingo.saavedra\AppData\Local\Temp\surefire3928271707914688660 2021-07-05T11-59-11_669-jvmRun1 surefire4924318842556776696tmp surefire_02143858101507204147tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\domingo.saavedra\Desktop\PageObjectModel_Repaso\target\test-classes;C:\Users\domingo.saavedra\Desktop\PageObjectModel_Repaso\target\classes;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\domingo.saavedra\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\domingo.saavedra\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\domingo.saavedra\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\domingo.saavedra\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\domingo.saavedra\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\domingo.saavedra\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\domingo.saavedra\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\domingo.saavedra\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\domingo.saavedra\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\domingo.saavedra\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\domingo.saavedra\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\poi\poi\4.0.0\poi-4.0.0.jar;C:\Users\domingo.saavedra\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\commons\commons-collections4\4.2\commons-collections4-4.2.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\poi\poi-ooxml\4.0.0\poi-ooxml-4.0.0.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.0.0\poi-ooxml-schemas-4.0.0.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\xmlbeans\xmlbeans\3.0.1\xmlbeans-3.0.1.jar;C:\Users\domingo.saavedra\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\domingo.saavedra\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\domingo.saavedra"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Progra~1\Java\jdk1.8.0_171\jre"/>
+    <property name="basedir" value="C:\Users\domingo.saavedra\Desktop\PageObjectModel_Repaso"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\domingo.saavedra\AppData\Local\Temp\surefire3928271707914688660\surefirebooter3173117953639207257.jar"/>
+    <property name="sun.boot.class.path" value="C:\Progra~1\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Progra~1\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Progra~1\Java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\Progra~1\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Progra~1\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Progra~1\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Progra~1\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Progra~1\Java\jdk1.8.0_171\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_171-b11"/>
+    <property name="user.name" value="domingo.saavedra"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Progra~1\Java\jdk1.8.0_171\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\domingo.saavedra\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\DOMING~1.SAA\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_171"/>
+    <property name="user.dir" value="C:\Users\domingo.saavedra\Desktop\PageObjectModel_Repaso"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Progra~1\Java\jdk1.8.0_171\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;%jJAVA_HOME%\bin;C:\Program Files\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\packer\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\hadoop-3.1.4\bin;C:\Progra~1\Java\jdk1.8.0_171\bin;C:\Users\domingo.saavedra\AppData\Local\Microsoft\WindowsApps;C:\Program Files\apache-maven-3.6.0\bin;C:\curl;C:\Users\domingo.saavedra\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.171-b11"/>
+    <property name="java.ext.dirs" value="C:\Progra~1\Java\jdk1.8.0_171\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="CP001_retomaFormularioContratacion" classname="tests.Tests" time="10.185">
+    <system-out><![CDATA[Inicio de suite de pruebas automatizadas
+https://publico.transbank.cl/
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 42066
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+jul 05, 2021 11:59:16 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="CP002" classname="tests.Tests" time="0">
+    <system-out><![CDATA[https://publico.transbank.cl/
+]]></system-out>
+  </testcase>
+  <testcase name="CP003" classname="tests.Tests" time="0">
+    <system-out><![CDATA[https://publico.transbank.cl/
+]]></system-out>
+  </testcase>
+  <testcase name="CP004" classname="tests.Tests" time="0">
+    <system-out><![CDATA[https://publico.transbank.cl/
+]]></system-out>
+  </testcase>
+  <testcase name="CP005" classname="tests.Tests" time="0">
+    <system-out><![CDATA[https://publico.transbank.cl/
+]]></system-out>
+  </testcase>
+</testsuite>
